@@ -1,0 +1,5 @@
+EmployeeID,Name,Title,TerritoryID,TerritoryDescription,RegionID
+3,Janet Leverling,Sales Representative,30346,"Atlanta                                           ",4
+3,Janet Leverling,Sales Representative,31406,"Savannah                                          ",4
+3,Janet Leverling,Sales Representative,32859,"Orlando                                           ",4
+3,Janet Leverling,Sales Representative,33607,"Tampa                                             ",4
