@@ -1,9 +1,9 @@
 <root>
-    <AuthorizedUser>david.froslie@ndus.edu</AuthorizedUser>
-    <ResourceGroupName>csci422-sql-assign-2023</ResourceGroupName>
-    <Location>EASTUS</Location>
-    <NewSQLServerName>csci422-sql-2023</NewSQLServerName>
-    <UsageDatabaseName>csci422-db-2023</UsageDatabaseName>
-    <ServerAdmin>CSCI422ServerAdmin</ServerAdmin>
-    <NewKeyVaultName>csci422-sql-kv-2023</NewKeyVaultName>
+    <AuthorizedUser>bekalue.kobro@ndus.edu</AuthorizedUser>
+    <ResourceGroupName>csci622-sql-assign-2024-kobro</ResourceGroupName>
+    <Location>WESTUS</Location>
+    <NewSQLServerName>csci622-sql-2024</NewSQLServerName>
+    <UsageDatabaseName>csci622-db-2024</UsageDatabaseName>
+    <ServerAdmin>CSCI622ServerAdmin</ServerAdmin>
+    <NewKeyVaultName>csci622-sql-keyvault2024</NewKeyVaultName>
 </root>
